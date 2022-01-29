@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color:#f0f0f0;
+
+}
+/*la boite */
+.tout{
+	align-items: center;
+	display: inline-block;
+	padding: 23px;
+	margin: 28px auto;
+}
+
+
+.tete{
+	display: flex;
+	align-items: center;
+	padding: 13px;
+	margin: 15px auto;
+
+}
+
+.bache{
+	border-radius: 10px;
+   padding: : 15px auto;
+   // bordur pour l image de l head(dev) et marge interieur
+}
+
+.element1{
+	border-radius: 10px;
+   padding: 25px auto;
+   margin-left: 25px;
+   // bordur, marge interieur et exterieur des 2 images cote a cote(premier image)
+}
+
+.element2{
+	border-radius: 10px;
+   padding: : 25px auto;
+   margin-left: 70px;
+   // bordur, marge interieur et exterieur des 2 images cote a cote(deuxieme image)
+
+}
